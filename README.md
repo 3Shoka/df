@@ -1,0 +1,1 @@
+ini adalah script untuk meng-generate data nilai acak untuk pembuatan tabel distribusi frekuensi
